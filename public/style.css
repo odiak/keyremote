@@ -1,0 +1,21 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background: #eee;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+}
+
+.btn {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background: #bbb;
+  font-size: 30px;
+}
+
+.btn_active {
+  background: #999;
+}
