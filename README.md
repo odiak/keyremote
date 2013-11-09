@@ -2,8 +2,8 @@
 
 1. Open Keynote and execute commands:
 
-    $ cd KeyRemote
-    $ ruby app.rb
+  $ cd KeyRemote
+  $ ruby app.rb
 
 2. Enter 'http://hostname:4567' on your smartphone.
 
